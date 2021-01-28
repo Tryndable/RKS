@@ -18,6 +18,7 @@
   <a href="https://discord.gg/gPSeWNUWrE">
     <img src="https://discordapp.com/api/guilds/776100065117863968/widget.png?style=shield" alt="Discord Server">
   </a>
+   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <br>
 </a> <br> <hr>
 
 <h1> MODERATION </H1>
