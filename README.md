@@ -14,6 +14,10 @@
 </a>
   <a href="https://status.watchbot.app/bot/760415780176658442">
     <img src="https://api.watchbot.app/bot/760415780176658442/widget?theme=dark" alt="RKS#0336" />
+  <br>
+  <a href="https://discord.gg/gPSeWNUWrE">
+    <img src="https://discordapp.com/api/guilds/776100065117863968/widget.png?style=shield" alt="Discord Server">
+  </a>
 </a> <br> <hr>
 
 <h1> MODERATION </H1>
