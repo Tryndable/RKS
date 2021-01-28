@@ -53,7 +53,7 @@
   !cb{anything}: to use chatbot <br>
   <hr>
 
-<img src="https://cdn.discordapp.com/attachments/803653983272435732/803662566903119902/standard_1.gif" alt="RKS" width="500" height="600">
+<img src="https://cdn.discordapp.com/attachments/803653983272435732/803662566903119902/standard_1.gif" alt="RKS" width="700" height="400">
 </center>
 </body>
 </head>
